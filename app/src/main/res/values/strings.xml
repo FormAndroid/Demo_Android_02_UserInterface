@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Demo_02_UI</string>
+
+    <string name="title_main_principal">Bonjour !</string>
+    <string name="title_main_desc">Jolie interface !</string>
+    <string name="btn_click_here">Cliquer ici !</string>
+    <string name="text_please_click">Veuillez cliquer sur le bouton. Merci</string>
 </resources>
